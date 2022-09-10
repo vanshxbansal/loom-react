@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/loom-react/static/css/main.0be0c8da.css",
+    "main.js": "/loom-react/static/js/main.ca2c4ab0.js",
+    "index.html": "/loom-react/index.html",
+    "main.0be0c8da.css.map": "/loom-react/static/css/main.0be0c8da.css.map",
+    "main.ca2c4ab0.js.map": "/loom-react/static/js/main.ca2c4ab0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0be0c8da.css",
+    "static/js/main.ca2c4ab0.js"
+  ]
+}
